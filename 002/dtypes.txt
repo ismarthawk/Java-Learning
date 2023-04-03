@@ -1,0 +1,19 @@
+# interger types
+(bigger to lower)
+long 
+int 
+byte
+short
+
+
+# Floating point types 
+(bigger to lower)
+float 
+double
+
+# Type conversions and castings
+
+automatic type conversion when : 
+* 2 types are compatible
+* destination is larger than source
+
